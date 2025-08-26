@@ -12,8 +12,7 @@
   👉 [링크 바로가기](https://chatgpt.com/g/g-689163026f10819193a22ec1db22b673-digital-image-processing)
 
 ### ✏️ 작성 포맷
-스터디 기록 시 아래 위키의 매뉴얼을 참고하여 작성해주세요.  
-👉 [Format 예시](https://www.notion.so/Format-X-242e4ff3b416800a9407e2eb481068cb?pvs=21)
+스터디 기록 시 [위키의 매뉴얼](https://github.com/han-skyler/Digital-Image-Processing/wiki)을 참고하여 작성해주세요.  
 
 ---
 
