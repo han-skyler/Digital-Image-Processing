@@ -1,0 +1,22 @@
+*                text=auto
+*.md             text eol=lf
+*.yml            text eol=lf
+*.yaml           text eol=lf
+*.sh             text eol=lf
+
+*.svg            text eol=lf
+
+*.png            -text
+*.jpg            -text
+*.jpeg           -text
+*.gif            -text
+*.webp           -text
+*.bmp            -text
+*.tif            -text
+*.tiff           -text
+*.ico            -text
+*.heic           -text
+*.heif           -text
+*.psd            -text
+*.ai             -text
+*.pdf            -text
