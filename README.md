@@ -15,6 +15,13 @@
 스터디 기록 시 [위키의 매뉴얼](https://github.com/han-skyler/Digital-Image-Processing/wiki)을 참고하여 작성해주세요.  
 
 ---
+## 📂 개인과제 레포지토리 주소
+
+- [🔗지윤's Repository](https://github.com/han-skyler/Digital_Image_Processing_Assignment)
+- [🔗형주's Repository](https://github.com/yourname/yourrepo)
+- [🔗영은's Repository](https://github.com/YE7283/Digital_Image_Processing_Assignment)
+- [🔗동욱's Repository](https://github.com/yourname/yourrepo)
+---
 
 ## 🚀 발표 순서
 
@@ -36,6 +43,31 @@
 | 14 | 2025-11-27 | 10장 디지털 동영상 처리 | 영은 |  |
 | 15 | 2025-12-04 | 11장 영상 압축 | 지윤 |  |
 | 16 | 2025-12-11 | 중간 점검 |  |  |
+
+---
+
+## ✨ 실습 순서
+
+| 주  | 장/과제 | 주제                                |
+|----|---------|-------------------------------------|
+| 1  | 실습 1  | MFC 프로젝트 만들기                 |
+| 2  | 실습 2  | BMP 이미지 출력하기                 |
+| 3  | 실습 3  | 히스토그램 평활화                   |
+| 4  | 실습 4  | DCT 변환과 복원                      |
+| 5  | 실습 4  | DCT 변환과 복원                      |
+| 6  | 실습 5  | 소벨 필터로 경계선 검출하기          |
+| 7  | 실습 5  | 소벨 필터로 경계선 검출하기          |
+| 8  |         | **중간고사**                        |
+| 9  | 실습 6  | 허프 변환으로 직선 검출하기          |
+| 10 | 실습 7  | 형태학 필터링 – 침식과 팽창          |
+| 11 | 실습 8  | OpenCV를 이용한 SURF 영상 정합       |
+| 12 | 실습 8  | OpenCV를 이용한 SURF 영상 정합       |
+| 13 | 실습 9  | PCA 기반의 얼굴 인식                 |
+| 14 | 실습 10 | YUV 동영상 재생하기                  |
+| 15 | 실습 11 | 움직임 추정 및 보상                  |
+| 16 |         | **기말고사**                        |
+---
+
 
 ---
 
