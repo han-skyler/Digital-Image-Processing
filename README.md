@@ -18,7 +18,7 @@
 ## 📂 개인과제 레포지토리 주소
 
 - [🔗지윤's Repository](https://github.com/han-skyler/Digital_Image_Processing_Assignment)
-- [🔗형주's Repository](https://github.com/yourname/yourrepo)
+- [🔗형주's Repository](https://github.com/corlexvusR/Digital_Image_Processing_Assignment)
 - [🔗영은's Repository](https://github.com/YE7283/Digital_Image_Processing_Assignment)
 - [🔗동욱's Repository](https://github.com/yourname/yourrepo)
 ---
